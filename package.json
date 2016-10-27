@@ -1,5 +1,5 @@
 {
-  "name": "react-typeahead",
+  "name": "react-typeahead-fix",
   "version": "2.0.0-alpha.4",
   "description": "React-based typeahead and typeahead-tokenizer",
   "keywords": [
@@ -9,16 +9,16 @@
     "autocomplete",
     "react-component"
   ],
-  "homepage": "https://github.com/fmoo/react-typeahead",
+  "homepage": "https://github.com/pate20/react-typeahead",
   "bugs": {
-    "url": "https://github.com/fmoo/react-typeahead/issues",
-    "email": "ruibalp@gmail.com"
+    "url": "https://github.com/pate20/react-typeahead/issues",
+    "email": "patrik.matous@gmail.com"
   },
   "license": "ISC",
   "author": {
-    "name": "Peter Ruibal",
-    "email": "ruibalp@gmail.com",
-    "url": "https://github.com/fmoo"
+    "name": "Patrik Matous",
+    "email": "patrik.matous@gmail.com",
+    "url": "https://github.com/pate20"
   },
   "contributors": [
     {
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fmoo/react-typeahead.git"
+    "url": "https://github.com/pate20/react-typeahead.git"
   },
   "dependencies": {
     "classnames": "^1.2.0",
