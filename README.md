@@ -1,4 +1,5 @@
-# react-typeahead
+# react-typeahead-fix
+This is fork which fixes [link](https://github.com/fmoo/react-typeahead/pull/219/files). The originall project seems to be abandoned.
 
 > A typeahead/autocomplete component for React
 
